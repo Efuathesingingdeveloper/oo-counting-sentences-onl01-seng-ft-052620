@@ -15,6 +15,6 @@ class String
   end
 
   def count_sentences
-sentences
+ sentences = self.gsub("")
   end
 end
